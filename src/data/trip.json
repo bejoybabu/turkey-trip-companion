@@ -1,0 +1,942 @@
+{
+  "trip": {
+    "title": "Turkey Trip Companion",
+    "dates": "28 Nov – 06 Dec",
+    "route": "Istanbul → Fethiye → Antalya",
+    "storageKey": "turkey-companion-saved-v5"
+  },
+  "days": [
+    {
+      "id": "d0",
+      "title": "Day 0",
+      "date": "Sat 28 Nov",
+      "place": "Istanbul",
+      "base": "Istanbul",
+      "travel": "Airport transfer only",
+      "summary": "Arrive, check in and keep the evening light.",
+      "hero": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/107432f1-4644-55fa-a11e-3fd7e06af788/debb7e2c-0c50-5375-a014-5cf972b83cbe.jpg"
+    },
+    {
+      "id": "d1",
+      "title": "Day 1",
+      "date": "Sun 29 Nov",
+      "place": "Istanbul",
+      "base": "Istanbul",
+      "travel": "Walking + public ferry",
+      "summary": "Neighbourhoods, markets and a ferry ride.",
+      "hero": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/3ef47faf-b974-5e6a-ae0e-952fee9cea6b/debb7e2c-0c50-5375-a014-5cf972b83cbe.jpg"
+    },
+    {
+      "id": "d2",
+      "title": "Day 2",
+      "date": "Mon 30 Nov",
+      "place": "Istanbul",
+      "base": "Istanbul",
+      "travel": "Walking + tram / taxi",
+      "summary": "Historic core early; choose one afternoon anchor.",
+      "hero": "https://st.perplexity.ai/estatic/0b226c450798410ac541646c86ec31afd840e5beab817a5d84fa821e7db61981ec84c3b4a3f072a7a2e1899c9fb06c6e8269c0b6282ed6482dcf03d2771abba189212839da63b314b3659da4470077e2b819db4cebf7525cff92cc50f69ee8000785a02e281770aaec24b2f5bb5f8af3"
+    },
+    {
+      "id": "d3",
+      "title": "Day 3",
+      "date": "Tue 1 Dec",
+      "place": "Fethiye",
+      "base": "Fethiye",
+      "travel": "IST → DLM flight · DLM → Fethiye 50–60 min",
+      "summary": "Fly in, collect the car, settle into Fethiye.",
+      "hero": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/1cba0bd6-dd7a-525a-868e-bf063148a55f/dee57a75-b320-5375-8010-3c43e88bf316.jpg"
+    },
+    {
+      "id": "d4",
+      "title": "Day 4",
+      "date": "Wed 2 Dec",
+      "place": "Faralya / Kabak",
+      "base": "Fethiye",
+      "travel": "Fethiye → Faralya 45–60 min",
+      "summary": "One-way Lycian Way hike day.",
+      "hero": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/1363c4c5-2a87-50e4-b64e-f863fbae1761/0dd8af59-90f7-56ac-9a4b-f7da1bd51f5a.jpg"
+    },
+    {
+      "id": "d5",
+      "title": "Day 5",
+      "date": "Thu 3 Dec",
+      "place": "Tlos / Saklıkent / Kaş",
+      "base": "Kaş or Kalkan",
+      "travel": "Flexible road day",
+      "summary": "Inland ruins, canyon and selective coastal stops.",
+      "hero": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/1cba0bd6-dd7a-525a-868e-bf063148a55f/dee57a75-b320-5375-8010-3c43e88bf316.jpg"
+    },
+    {
+      "id": "d6",
+      "title": "Day 6",
+      "date": "Fri 4 Dec",
+      "place": "Kaş / Myra / Kekova / Çıralı",
+      "base": "Çıralı",
+      "travel": "Allow 3–4 hr with stops",
+      "summary": "History-rich drive east, with an optional small boat.",
+      "hero": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/2c97a4bf-c3d9-5568-969a-9a2684419e71/cb143b99-1b38-5437-bd6f-c85b113d195e.jpg"
+    },
+    {
+      "id": "d7",
+      "title": "Day 7",
+      "date": "Sat 5 Dec",
+      "place": "Çıralı / Antalya",
+      "base": "Antalya / AYT",
+      "travel": "1.5–2.5 hr depending on stops",
+      "summary": "Final ruins and an easy Antalya night.",
+      "hero": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/f9b5be6d-7216-5158-8823-aaf257b045a4/cb143b99-1b38-5437-bd6f-c85b113d195e.jpg"
+    },
+    {
+      "id": "d8",
+      "title": "Day 8",
+      "date": "Sun 6 Dec",
+      "place": "Antalya Airport",
+      "base": "Flight day",
+      "travel": "Airport transfer only",
+      "summary": "AYT 09:45 → IST → Dublin 15:30.",
+      "hero": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/107432f1-4644-55fa-a11e-3fd7e06af788/debb7e2c-0c50-5375-a014-5cf972b83cbe.jpg"
+    }
+  ],
+  "activities": [
+    {
+      "id": "kadikoy",
+      "day": "d0",
+      "place": "Istanbul",
+      "area": "Kadıköy / Moda",
+      "name": "Kadıköy market wander",
+      "time": "Evening",
+      "duration": 1.5,
+      "effort": "Easy",
+      "maps": "Kadikoy Market Istanbul",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/107432f1-4644-55fa-a11e-3fd7e06af788/debb7e2c-0c50-5375-a014-5cf972b83cbe.jpg",
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/3ef47faf-b974-5e6a-ae0e-952fee9cea6b/debb7e2c-0c50-5375-a014-5cf972b83cbe.jpg"
+      ],
+      "desc": "An easy arrival activity: food stalls, bakeries, bars and market streets on Istanbul’s Asian side.",
+      "notes": [
+        "Best after check-in",
+        "Pair with dinner"
+      ]
+    },
+    {
+      "id": "galata",
+      "day": "d0",
+      "place": "Istanbul",
+      "area": "Karaköy / Galata",
+      "name": "Karaköy & Galata evening walk",
+      "time": "Evening",
+      "duration": 1.5,
+      "effort": "Easy",
+      "maps": "Karakoy Galata Istanbul",
+      "photos": [
+        "https://st.perplexity.ai/estatic/0b226c450798410ac541646c86ec31afd840e5beab817a5d84fa821e7db61981ec84c3b4a3f072a7a2e1899c9fb06c6e8269c0b6282ed6482dcf03d2771abba189212839da63b314b3659da4470077e2b819db4cebf7525cff92cc50f69ee8000785a02e281770aaec24b2f5bb5f8af3",
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/3ef47faf-b974-5e6a-ae0e-952fee9cea6b/debb7e2c-0c50-5375-a014-5cf972b83cbe.jpg",
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/107432f1-4644-55fa-a11e-3fd7e06af788/debb7e2c-0c50-5375-a014-5cf972b83cbe.jpg"
+      ],
+      "desc": "European-side alternative if your hotel is central: compact streets, cafés and a casual dinner.",
+      "notes": [
+        "Good first-night alternative"
+      ]
+    },
+    {
+      "id": "ferry",
+      "day": "d1",
+      "place": "Istanbul",
+      "area": "Bosphorus",
+      "name": "Public ferry to Kadıköy",
+      "time": "Morning",
+      "duration": 1,
+      "effort": "Easy",
+      "maps": "Eminonu Ferry Terminal Istanbul",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/3ef47faf-b974-5e6a-ae0e-952fee9cea6b/debb7e2c-0c50-5375-a014-5cf972b83cbe.jpg"
+      ],
+      "desc": "Take the commuter ferry as transport and as the day’s moving city viewpoint.",
+      "notes": [
+        "Stand outside for skyline views"
+      ]
+    },
+    {
+      "id": "moda",
+      "day": "d1",
+      "place": "Istanbul",
+      "area": "Kadıköy / Moda",
+      "name": "Moda waterfront & backstreets",
+      "time": "Afternoon",
+      "duration": 2,
+      "effort": "Easy",
+      "maps": "Moda Sahili Istanbul",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/107432f1-4644-55fa-a11e-3fd7e06af788/debb7e2c-0c50-5375-a014-5cf972b83cbe.jpg"
+      ],
+      "desc": "A loose afternoon of cafés, waterfront walking, small shops and residential streets.",
+      "notes": [
+        "Leave room to stop"
+      ]
+    },
+    {
+      "id": "hagia",
+      "day": "d2",
+      "place": "Istanbul",
+      "area": "Sultanahmet",
+      "name": "Hagia Sophia at opening",
+      "time": "Morning",
+      "duration": 1.5,
+      "effort": "Easy",
+      "maps": "Hagia Sophia Istanbul",
+      "photos": [
+        "https://st.perplexity.ai/estatic/0b226c450798410ac541646c86ec31afd840e5beab817a5d84fa821e7db61981ec84c3b4a3f072a7a2e1899c9fb06c6e8269c0b6282ed6482dcf03d2771abba189212839da63b314b3659da4470077e2b819db4cebf7525cff92cc50f69ee8000785a02e281770aaec24b2f5bb5f8af3"
+      ],
+      "desc": "Arrive around 08:45–09:00 to avoid the main tour-group wave.",
+      "notes": [
+        "Check current visitor access rules"
+      ]
+    },
+    {
+      "id": "cistern",
+      "day": "d2",
+      "place": "Istanbul",
+      "area": "Sultanahmet",
+      "name": "Basilica Cistern",
+      "time": "Morning",
+      "duration": 0.75,
+      "effort": "Easy",
+      "maps": "Basilica Cistern Istanbul",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/107432f1-4644-55fa-a11e-3fd7e06af788/debb7e2c-0c50-5375-a014-5cf972b83cbe.jpg"
+      ],
+      "desc": "Atmospheric underground counterpoint to the morning monuments.",
+      "notes": [
+        "Best before lunch"
+      ]
+    },
+    {
+      "id": "topkapi",
+      "day": "d2",
+      "place": "Istanbul",
+      "area": "Sultanahmet",
+      "name": "Topkapı Palace",
+      "time": "Afternoon",
+      "duration": 2.5,
+      "effort": "Moderate",
+      "maps": "Topkapi Palace Istanbul",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/3ef47faf-b974-5e6a-ae0e-952fee9cea6b/debb7e2c-0c50-5375-a014-5cf972b83cbe.jpg"
+      ],
+      "desc": "Ottoman court complex with courtyards, collections and Bosphorus views.",
+      "notes": [
+        "Choose this OR the Archaeology Museums"
+      ]
+    },
+    {
+      "id": "museum",
+      "day": "d2",
+      "place": "Istanbul",
+      "area": "Sultanahmet",
+      "name": "Istanbul Archaeology Museums",
+      "time": "Afternoon",
+      "duration": 2,
+      "effort": "Easy",
+      "maps": "Istanbul Archaeology Museums",
+      "photos": [
+        "https://st.perplexity.ai/estatic/0b226c450798410ac541646c86ec31afd840e5beab817a5d84fa821e7db61981ec84c3b4a3f072a7a2e1899c9fb06c6e8269c0b6282ed6482dcf03d2771abba189212839da63b314b3659da4470077e2b819db4cebf7525cff92cc50f69ee8000785a02e281770aaec24b2f5bb5f8af3"
+      ],
+      "desc": "A calmer history-focused alternative to a long palace visit.",
+      "notes": [
+        "Good in wet weather"
+      ]
+    },
+    {
+      "id": "fethiyeharbour",
+      "day": "d3",
+      "place": "Fethiye",
+      "area": "Fethiye harbour",
+      "name": "Fethiye harbour & old town",
+      "time": "Evening",
+      "duration": 1.5,
+      "effort": "Easy",
+      "maps": "Fethiye Harbour",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/2c97a4bf-c3d9-5568-969a-9a2684419e71/cb143b99-1b38-5437-bd6f-c85b113d195e.jpg"
+      ],
+      "desc": "A decompression evening after the flight, car pickup and hotel check-in.",
+      "notes": [
+        "Keep Day 3 light"
+      ]
+    },
+    {
+      "id": "amyntas",
+      "day": "d3",
+      "place": "Fethiye",
+      "area": "Fethiye",
+      "name": "Amyntas Rock Tombs",
+      "time": "Sunset",
+      "duration": 1,
+      "effort": "Moderate",
+      "maps": "Amyntas Rock Tombs Fethiye",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/f9b5be6d-7216-5158-8823-aaf257b045a4/cb143b99-1b38-5437-bd6f-c85b113d195e.jpg"
+      ],
+      "desc": "Optional short climb for views across Fethiye if daylight and energy line up.",
+      "notes": [
+        "Skip if flight is late"
+      ]
+    },
+    {
+      "id": "kayakoy",
+      "day": "d3",
+      "place": "Fethiye",
+      "area": "Kayaköy",
+      "name": "Kayaköy ghost village",
+      "time": "Afternoon",
+      "duration": 2,
+      "effort": "Easy",
+      "maps": "Kayakoy Ghost Town",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/1cba0bd6-dd7a-525a-868e-bf063148a55f/dee57a75-b320-5375-8010-3c43e88bf316.jpg"
+      ],
+      "desc": "Atmospheric abandoned stone village and flexible walking near Fethiye.",
+      "notes": [
+        "Easy to shorten"
+      ]
+    },
+    {
+      "id": "faralyakabak",
+      "day": "d4",
+      "place": "Faralya / Kabak",
+      "area": "Lycian Way",
+      "name": "Faralya → Kabak Lycian Way hike",
+      "time": "Morning",
+      "duration": 5,
+      "effort": "Demanding",
+      "maps": "Faralya Turkey",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/1cba0bd6-dd7a-525a-868e-bf063148a55f/dee57a75-b320-5375-8010-3c43e88bf316.jpg",
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/1363c4c5-2a87-50e4-b64e-f863fbae1761/0dd8af59-90f7-56ac-9a4b-f7da1bd51f5a.jpg"
+      ],
+      "desc": "Park in Faralya, walk down through pine and coastal scrub to Kabak Valley, then return by dolmuş connection.",
+      "notes": [
+        "Confirm low-season bus timing",
+        "Do not start late"
+      ]
+    },
+    {
+      "id": "kabakbeach",
+      "day": "d4",
+      "place": "Faralya / Kabak",
+      "area": "Kabak Valley",
+      "name": "Kabak Valley beach & valley walk",
+      "time": "Afternoon",
+      "duration": 2,
+      "effort": "Easy",
+      "maps": "Kabak Valley Turkey",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/1363c4c5-2a87-50e4-b64e-f863fbae1761/0dd8af59-90f7-56ac-9a4b-f7da1bd51f5a.jpg"
+      ],
+      "desc": "A gentler valley and shoreline walk if you want a lower-effort Day 4.",
+      "notes": [
+        "Check trail conditions"
+      ]
+    },
+    {
+      "id": "faralyaview",
+      "day": "d4",
+      "place": "Faralya / Kabak",
+      "area": "Faralya",
+      "name": "Faralya cliff viewpoints",
+      "time": "Sunset",
+      "duration": 1,
+      "effort": "Easy",
+      "maps": "Faralya Turkey",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/1cba0bd6-dd7a-525a-868e-bf063148a55f/dee57a75-b320-5375-8010-3c43e88bf316.jpg"
+      ],
+      "desc": "Short scenic stops above the coast, ideal before dinner.",
+      "notes": [
+        "Bring a layer for wind"
+      ]
+    },
+    {
+      "id": "tlos",
+      "day": "d5",
+      "place": "Tlos / Saklıkent / Kaş",
+      "area": "Inland Lycia",
+      "name": "Tlos Ancient City",
+      "time": "Morning",
+      "duration": 1.75,
+      "effort": "Moderate",
+      "maps": "Tlos Ancient City",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/1cba0bd6-dd7a-525a-868e-bf063148a55f/dee57a75-b320-5375-8010-3c43e88bf316.jpg"
+      ],
+      "desc": "Hilltop Lycian and Roman ruins with tombs and broad valley views.",
+      "notes": [
+        "Pair naturally with Saklıkent"
+      ]
+    },
+    {
+      "id": "saklikent",
+      "day": "d5",
+      "place": "Tlos / Saklıkent / Kaş",
+      "area": "Inland Lycia",
+      "name": "Saklıkent Gorge boardwalk",
+      "time": "Afternoon",
+      "duration": 2,
+      "effort": "Moderate",
+      "maps": "Saklikent Gorge",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/1363c4c5-2a87-50e4-b64e-f863fbae1761/0dd8af59-90f7-56ac-9a4b-f7da1bd51f5a.jpg"
+      ],
+      "desc": "Canyon scenery and boardwalk; deeper river walking depends on December conditions.",
+      "notes": [
+        "Do not force river wading"
+      ]
+    },
+    {
+      "id": "xanthos",
+      "day": "d5",
+      "place": "Tlos / Saklıkent / Kaş",
+      "area": "Xanthos",
+      "name": "Xanthos Ancient City",
+      "time": "Afternoon",
+      "duration": 1.5,
+      "effort": "Easy",
+      "maps": "Xanthos Ancient City",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/2c97a4bf-c3d9-5568-969a-9a2684419e71/cb143b99-1b38-5437-bd6f-c85b113d195e.jpg"
+      ],
+      "desc": "The Lycian capital with ruins, theatre and tombs.",
+      "notes": [
+        "Optional after Tlos + Saklıkent"
+      ]
+    },
+    {
+      "id": "kaswalk",
+      "day": "d6",
+      "place": "Kaş / Myra / Kekova / Çıralı",
+      "area": "Kaş",
+      "name": "Kaş harbour, theatre & lanes",
+      "time": "Morning",
+      "duration": 1.75,
+      "effort": "Easy",
+      "maps": "Kas Old Harbour",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/2c97a4bf-c3d9-5568-969a-9a2684419e71/cb143b99-1b38-5437-bd6f-c85b113d195e.jpg"
+      ],
+      "desc": "Slow breakfast, harbour walk and ancient theatre before heading east.",
+      "notes": [
+        "Avoid adding a long hike here"
+      ]
+    },
+    {
+      "id": "myra",
+      "day": "d6",
+      "place": "Kaş / Myra / Kekova / Çıralı",
+      "area": "Demre",
+      "name": "Myra theatre & Lycian tombs",
+      "time": "Afternoon",
+      "duration": 1.75,
+      "effort": "Easy",
+      "maps": "Myra Ancient City",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/f9b5be6d-7216-5158-8823-aaf257b045a4/cb143b99-1b38-5437-bd6f-c85b113d195e.jpg"
+      ],
+      "desc": "Roman theatre beneath dramatic cliff-cut tombs; the historic anchor of the eastbound road day.",
+      "notes": [
+        "Pair with a simple Demre lunch"
+      ]
+    },
+    {
+      "id": "kekova",
+      "day": "d6",
+      "place": "Kaş / Myra / Kekova / Çıralı",
+      "area": "Üçağız",
+      "name": "Kekova archaeological boat outing",
+      "time": "Afternoon",
+      "duration": 2,
+      "effort": "Easy",
+      "maps": "Ucagiz Kekova",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/2c97a4bf-c3d9-5568-969a-9a2684419e71/cb143b99-1b38-5437-bd6f-c85b113d195e.jpg"
+      ],
+      "desc": "Short local boat for the sunken coast and Simena views.",
+      "notes": [
+        "Weather-dependent"
+      ]
+    },
+    {
+      "id": "chimera",
+      "day": "d6",
+      "place": "Kaş / Myra / Kekova / Çıralı",
+      "area": "Yanartaş",
+      "name": "Chimaera flame walk",
+      "time": "Night",
+      "duration": 1.75,
+      "effort": "Moderate",
+      "maps": "Yanartas Chimera Turkey",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/f9b5be6d-7216-5158-8823-aaf257b045a4/cb143b99-1b38-5437-bd6f-c85b113d195e.jpg"
+      ],
+      "desc": "An uphill headlamp walk to natural flames after dark.",
+      "notes": [
+        "Only if the group still has energy"
+      ]
+    },
+    {
+      "id": "olympos",
+      "day": "d7",
+      "place": "Çıralı / Antalya",
+      "area": "Olympos",
+      "name": "Olympos forested ruins",
+      "time": "Morning",
+      "duration": 2,
+      "effort": "Easy",
+      "maps": "Olympos Ancient City Turkey",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/2c97a4bf-c3d9-5568-969a-9a2684419e71/cb143b99-1b38-5437-bd6f-c85b113d195e.jpg"
+      ],
+      "desc": "Atmospheric ruins through a forested river valley; the relaxed final-morning default.",
+      "notes": [
+        "Choose this OR a daytime Chimaera walk"
+      ]
+    },
+    {
+      "id": "phaselis",
+      "day": "d7",
+      "place": "Çıralı / Antalya",
+      "area": "Phaselis",
+      "name": "Phaselis ancient harbour city",
+      "time": "Afternoon",
+      "duration": 1.75,
+      "effort": "Easy",
+      "maps": "Phaselis Ancient City",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/f9b5be6d-7216-5158-8823-aaf257b045a4/cb143b99-1b38-5437-bd6f-c85b113d195e.jpg"
+      ],
+      "desc": "Ruins and harbour walls beneath pines, with coastal scenery but no resort requirement.",
+      "notes": [
+        "Best relaxed stop before Antalya"
+      ]
+    },
+    {
+      "id": "termessos",
+      "day": "d7",
+      "place": "Çıralı / Antalya",
+      "area": "Taurus foothills",
+      "name": "Termessos mountain city",
+      "time": "Morning",
+      "duration": 3.5,
+      "effort": "Demanding",
+      "maps": "Termessos Ancient City",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/1cba0bd6-dd7a-525a-868e-bf063148a55f/dee57a75-b320-5375-8010-3c43e88bf316.jpg"
+      ],
+      "desc": "Major mountain ruins alternative; impressive but strenuous for the final day.",
+      "notes": [
+        "Only if leaving very early"
+      ]
+    }
+  ],
+  "food": [
+    {
+      "id": "f-ist-1",
+      "place": "Istanbul",
+      "area": "Kadıköy",
+      "name": "Çiya Sofrası",
+      "type": "Restaurant",
+      "time": "Dinner",
+      "duration": 1.25,
+      "effort": "Easy",
+      "maps": "Ciya Sofrasi Kadikoy",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/107432f1-4644-55fa-a11e-3fd7e06af788/debb7e2c-0c50-5375-a014-5cf972b83cbe.jpg"
+      ],
+      "desc": "Regional Anatolian cooking; especially good for a first-night Turkish meal.",
+      "notes": [
+        "Arrive early",
+        "Casual, busy"
+      ]
+    },
+    {
+      "id": "f-ist-2",
+      "place": "Istanbul",
+      "area": "Karaköy",
+      "name": "Karaköy Güllüoğlu",
+      "type": "Café / bakery",
+      "time": "Breakfast or afternoon",
+      "duration": 1.25,
+      "effort": "Easy",
+      "maps": "Karakoy Gulluoglu",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/107432f1-4644-55fa-a11e-3fd7e06af788/debb7e2c-0c50-5375-a014-5cf972b83cbe.jpg"
+      ],
+      "desc": "Classic baklava stop near the waterfront.",
+      "notes": [
+        "Go outside peak hours"
+      ]
+    },
+    {
+      "id": "f-ist-3",
+      "place": "Istanbul",
+      "area": "Eminönü",
+      "name": "Pandeli",
+      "type": "Restaurant",
+      "time": "Lunch",
+      "duration": 1.25,
+      "effort": "Easy",
+      "maps": "Pandeli Istanbul",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/107432f1-4644-55fa-a11e-3fd7e06af788/debb7e2c-0c50-5375-a014-5cf972b83cbe.jpg"
+      ],
+      "desc": "Historic covered-market restaurant near the ferry terminal.",
+      "notes": [
+        "Check opening days",
+        "Good after a Bosphorus ferry"
+      ]
+    },
+    {
+      "id": "f-fet-1",
+      "place": "Fethiye",
+      "area": "Fethiye harbour",
+      "name": "Yengeç Restaurant",
+      "type": "Restaurant",
+      "time": "Dinner",
+      "duration": 1.25,
+      "effort": "Easy",
+      "maps": "Yengec Restaurant Fethiye",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/1cba0bd6-dd7a-525a-868e-bf063148a55f/dee57a75-b320-5375-8010-3c43e88bf316.jpg"
+      ],
+      "desc": "Harbour-side seafood and meze option for the arrival night.",
+      "notes": [
+        "Check winter opening"
+      ]
+    },
+    {
+      "id": "f-fet-2",
+      "place": "Fethiye",
+      "area": "Fethiye old town",
+      "name": "Mozaik Bahçe",
+      "type": "Restaurant",
+      "time": "Dinner",
+      "duration": 1.25,
+      "effort": "Easy",
+      "maps": "Mozaik Bahce Fethiye",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/1cba0bd6-dd7a-525a-868e-bf063148a55f/dee57a75-b320-5375-8010-3c43e88bf316.jpg"
+      ],
+      "desc": "Garden restaurant in the old town, useful for a relaxed first Fethiye evening.",
+      "notes": [
+        "Check seasonal hours"
+      ]
+    },
+    {
+      "id": "f-fet-3",
+      "place": "Fethiye",
+      "area": "Çalış / Fethiye",
+      "name": "Öz Çakıl",
+      "type": "Seafood restaurant",
+      "time": "Lunch or dinner",
+      "duration": 1.25,
+      "effort": "Easy",
+      "maps": "Oz Cakil Fethiye",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/1cba0bd6-dd7a-525a-868e-bf063148a55f/dee57a75-b320-5375-8010-3c43e88bf316.jpg"
+      ],
+      "desc": "Simple seafood option with a local, unfussy feel.",
+      "notes": [
+        "Confirm winter service"
+      ]
+    },
+    {
+      "id": "f-far-1",
+      "place": "Faralya / Kabak",
+      "area": "Faralya",
+      "name": "Dolphin Bungalows",
+      "type": "Café / restaurant",
+      "time": "Lunch",
+      "duration": 1.25,
+      "effort": "Easy",
+      "maps": "Dolphin Bungalows Faralya",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/1cba0bd6-dd7a-525a-868e-bf063148a55f/dee57a75-b320-5375-8010-3c43e88bf316.jpg"
+      ],
+      "desc": "Cliffside stop with broad sea views before or after the Kabak walk.",
+      "notes": [
+        "Check winter opening"
+      ]
+    },
+    {
+      "id": "f-far-2",
+      "place": "Faralya / Kabak",
+      "area": "Kabak Valley",
+      "name": "Kabak Valley cafés",
+      "type": "Casual café",
+      "time": "Lunch",
+      "duration": 1.25,
+      "effort": "Easy",
+      "maps": "Kabak Valley Turkey",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/1cba0bd6-dd7a-525a-868e-bf063148a55f/dee57a75-b320-5375-8010-3c43e88bf316.jpg"
+      ],
+      "desc": "Small valley cafés and simple meals near the trailhead area.",
+      "notes": [
+        "Hours can be limited in December"
+      ]
+    },
+    {
+      "id": "f-far-3",
+      "place": "Faralya / Kabak",
+      "area": "Faralya",
+      "name": "Faralya Art House",
+      "type": "Café / restaurant",
+      "time": "Dinner",
+      "duration": 1.25,
+      "effort": "Easy",
+      "maps": "Faralya Art House",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/1cba0bd6-dd7a-525a-868e-bf063148a55f/dee57a75-b320-5375-8010-3c43e88bf316.jpg"
+      ],
+      "desc": "Peaceful hillside dinner option with valley and sea views.",
+      "notes": [
+        "Reserve or call ahead in low season"
+      ]
+    },
+    {
+      "id": "f-tlos-1",
+      "place": "Tlos / Saklıkent / Kaş",
+      "area": "Saklıkent",
+      "name": "Saklıkent riverside restaurants",
+      "type": "Casual restaurant",
+      "time": "Lunch",
+      "duration": 1.25,
+      "effort": "Easy",
+      "maps": "Saklikent Gorge restaurants",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/2c97a4bf-c3d9-5568-969a-9a2684419e71/cb143b99-1b38-5437-bd6f-c85b113d195e.jpg"
+      ],
+      "desc": "Riverside trout and simple Turkish meals near the gorge entrance.",
+      "notes": [
+        "Choose a place with visible customers"
+      ]
+    },
+    {
+      "id": "f-tlos-2",
+      "place": "Tlos / Saklıkent / Kaş",
+      "area": "Kaş",
+      "name": "Kaş İkbal",
+      "type": "Restaurant",
+      "time": "Dinner",
+      "duration": 1.25,
+      "effort": "Easy",
+      "maps": "Kas Ikbal Restaurant",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/2c97a4bf-c3d9-5568-969a-9a2684419e71/cb143b99-1b38-5437-bd6f-c85b113d195e.jpg"
+      ],
+      "desc": "Well-known Kaş restaurant for meze and grilled dishes.",
+      "notes": [
+        "Book ahead in busier periods"
+      ]
+    },
+    {
+      "id": "f-tlos-3",
+      "place": "Tlos / Saklıkent / Kaş",
+      "area": "Kaş",
+      "name": "Oburus Momus",
+      "type": "Café / restaurant",
+      "time": "Lunch",
+      "duration": 1.25,
+      "effort": "Easy",
+      "maps": "Oburus Momus Kas",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/2c97a4bf-c3d9-5568-969a-9a2684419e71/cb143b99-1b38-5437-bd6f-c85b113d195e.jpg"
+      ],
+      "desc": "Relaxed garden café with Mediterranean dishes.",
+      "notes": [
+        "Good before the eastbound drive"
+      ]
+    },
+    {
+      "id": "f-kas-1",
+      "place": "Kaş / Myra / Kekova / Çıralı",
+      "area": "Kaş",
+      "name": "Kaş İkbal",
+      "type": "Restaurant",
+      "time": "Dinner",
+      "duration": 1.25,
+      "effort": "Easy",
+      "maps": "Kas Ikbal Restaurant",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/2c97a4bf-c3d9-5568-969a-9a2684419e71/cb143b99-1b38-5437-bd6f-c85b113d195e.jpg"
+      ],
+      "desc": "Meze, grills and a dependable central Kaş dinner.",
+      "notes": [
+        "Check winter hours"
+      ]
+    },
+    {
+      "id": "f-kas-2",
+      "place": "Kaş / Myra / Kekova / Çıralı",
+      "area": "Kaş",
+      "name": "Oburus Momus",
+      "type": "Café / restaurant",
+      "time": "Lunch",
+      "duration": 1.25,
+      "effort": "Easy",
+      "maps": "Oburus Momus Kas",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/2c97a4bf-c3d9-5568-969a-9a2684419e71/cb143b99-1b38-5437-bd6f-c85b113d195e.jpg"
+      ],
+      "desc": "Garden café option before continuing east.",
+      "notes": [
+        "Seasonal opening"
+      ]
+    },
+    {
+      "id": "f-kas-3",
+      "place": "Kaş / Myra / Kekova / Çıralı",
+      "area": "Demre",
+      "name": "Demre waterfront restaurants",
+      "type": "Casual restaurant",
+      "time": "Lunch",
+      "duration": 1.25,
+      "effort": "Easy",
+      "maps": "Demre Turkey restaurants",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/2c97a4bf-c3d9-5568-969a-9a2684419e71/cb143b99-1b38-5437-bd6f-c85b113d195e.jpg"
+      ],
+      "desc": "Simple local lunch stops near Myra and the boat-launch area.",
+      "notes": [
+        "Useful between Myra and Kekova"
+      ]
+    },
+    {
+      "id": "f-cir-1",
+      "place": "Çıralı / Antalya",
+      "area": "Olympos / Çıralı",
+      "name": "Ontas Restaurant",
+      "type": "Restaurant",
+      "time": "Lunch or dinner",
+      "duration": 1.25,
+      "effort": "Easy",
+      "maps": "Ontas Restaurant Cirali",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/2c97a4bf-c3d9-5568-969a-9a2684419e71/cb143b99-1b38-5437-bd6f-c85b113d195e.jpg"
+      ],
+      "desc": "Simple, well-regarded Çıralı option close to the ruins and beach area.",
+      "notes": [
+        "Confirm winter opening"
+      ]
+    },
+    {
+      "id": "f-cir-2",
+      "place": "Çıralı / Antalya",
+      "area": "Çıralı",
+      "name": "Yörük Restaurant",
+      "type": "Restaurant",
+      "time": "Dinner",
+      "duration": 1.25,
+      "effort": "Easy",
+      "maps": "Yoruk Restaurant Cirali",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/2c97a4bf-c3d9-5568-969a-9a2684419e71/cb143b99-1b38-5437-bd6f-c85b113d195e.jpg"
+      ],
+      "desc": "Rustic Çıralı dining option with a relaxed, local feel.",
+      "notes": [
+        "Check low-season hours"
+      ]
+    },
+    {
+      "id": "f-cir-3",
+      "place": "Çıralı / Antalya",
+      "area": "Kaleiçi",
+      "name": "Antalya old-town restaurants",
+      "type": "Restaurant",
+      "time": "Dinner",
+      "duration": 1.25,
+      "effort": "Easy",
+      "maps": "Kaleici Antalya restaurants",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/2c97a4bf-c3d9-5568-969a-9a2684419e71/cb143b99-1b38-5437-bd6f-c85b113d195e.jpg"
+      ],
+      "desc": "Compact old-town area with multiple dinner choices for the final night.",
+      "notes": [
+        "Walk from your Antalya hotel if possible"
+      ]
+    }
+  ],
+  "stays": [
+    {
+      "id": "s-ist",
+      "place": "Istanbul",
+      "area": "Karaköy / Galata",
+      "name": "Karaköy / Galata boutique stay",
+      "type": "Boutique hotel",
+      "time": "Stay",
+      "duration": 0,
+      "effort": "Stay",
+      "maps": "Karakoy Galata hotels",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/107432f1-4644-55fa-a11e-3fd7e06af788/debb7e2c-0c50-5375-a014-5cf972b83cbe.jpg"
+      ],
+      "desc": "Central European-side base with ferry, tram and food access.",
+      "notes": [
+        "Good for arrival and city sightseeing"
+      ]
+    },
+    {
+      "id": "s-fet",
+      "place": "Fethiye",
+      "area": "Fethiye harbour",
+      "name": "Fethiye harbour hotel",
+      "type": "Hotel",
+      "time": "Stay",
+      "duration": 0,
+      "effort": "Stay",
+      "maps": "Fethiye harbour hotels",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/1cba0bd6-dd7a-525a-868e-bf063148a55f/dee57a75-b320-5375-8010-3c43e88bf316.jpg"
+      ],
+      "desc": "Practical road-trip base with restaurants and parking nearby.",
+      "notes": [
+        "Best for Days 3–4"
+      ]
+    },
+    {
+      "id": "s-kas",
+      "place": "Kaş / Myra / Kekova / Çıralı",
+      "area": "Kaş",
+      "name": "Kaş old-town stay",
+      "type": "Boutique hotel",
+      "time": "Stay",
+      "duration": 0,
+      "effort": "Stay",
+      "maps": "Kas old town hotels",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/2c97a4bf-c3d9-5568-969a-9a2684419e71/cb143b99-1b38-5437-bd6f-c85b113d195e.jpg"
+      ],
+      "desc": "Atmospheric base for the western Lycian coast.",
+      "notes": [
+        "Useful if splitting the road journey"
+      ]
+    },
+    {
+      "id": "s-cir",
+      "place": "Çıralı / Antalya",
+      "area": "Çıralı",
+      "name": "Çıralı pension or bungalow",
+      "type": "Pension / bungalow",
+      "time": "Stay",
+      "duration": 0,
+      "effort": "Stay",
+      "maps": "Cirali Turkey accommodation",
+      "photos": [
+        "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/2c97a4bf-c3d9-5568-969a-9a2684419e71/cb143b99-1b38-5437-bd6f-c85b113d195e.jpg"
+      ],
+      "desc": "Quiet nature-focused base close to Olympos and the Chimaera walk.",
+      "notes": [
+        "Confirm winter heating and opening"
+      ]
+    }
+  ]
+}
